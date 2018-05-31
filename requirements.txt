@@ -29,4 +29,3 @@ text-unidecode==1.2
 Werkzeug==0.14.1
 whitenoise==3.3.1
 wincertstore==0.2
--e git+https://github.com/dmlc/xgboost@eb9e30bb309825b7a788b571e7d5c9414a1056e3#egg=xgboost&subdirectory=python-package
